@@ -3,11 +3,6 @@
 {
 "title":"Infinite Yield",
 "excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()",
-},
-
-{
-"title":"Dark Dex V4",
-"excerpt":"loadstring(game:HttpGetAsync("https://pastebin.com/raw/fPP8bZ8Z"))()",
 }
 
 ]
