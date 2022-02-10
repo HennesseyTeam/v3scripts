@@ -6,8 +6,18 @@
 },
 
 {
+"title":"Hydroxide Remote Spy",
+"excerpt":"loadstring(game:HttpGet('https://pastebin.com/raw/S4sM7Hh8'))()",
+},
+
+{
 "title":"Dark Dex V4",
 "excerpt":"loadstring(game:HttpGet('https://pastebin.com/raw/fPP8bZ8Z'))()",
+},
+
+{
+"title":"Owl Hub",
+"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt'))()",
 }
 
 ]
