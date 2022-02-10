@@ -1,7 +1,8 @@
 [
 
 {
-"title":"The Maze Runner Script | CHEST FARM","excerpt":"getgenv().AutoChest = true\r\nloadstring(game:HttpGet('https:\/\/raw.githubusercontent.com\/BaconLords\/Random-Shit\/main\/Maze%20Runner%20super%20shit%20chest%20farm'))()",
+"title":"Infinite Yield",
+"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()",
 }
 
 ]
