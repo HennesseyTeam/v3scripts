@@ -1,10 +1,7 @@
 [
 
 {
-"id":1471,
 "title":"The Maze Runner Script | CHEST FARM","excerpt":"getgenv().AutoChest = true\r\nloadstring(game:HttpGet('https:\/\/raw.githubusercontent.com\/BaconLords\/Random-Shit\/main\/Maze%20Runner%20super%20shit%20chest%20farm'))()",
-"date":"2022-02-10 08:54:08","slug":"the-maze-runner-script-chest-farm",
-"featured_image":{"thumbnail":"https:\/\/rbxscripts.xyz\/wp-content\/uploads\/2022\/02\/Png-16-300x169-2-150x150.png"}
 }
 
 ]
