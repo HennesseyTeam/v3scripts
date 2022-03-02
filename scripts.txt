@@ -20,7 +20,7 @@
 
 {
 "title":"Owl Hub",
-"tagone":"# Universal",
+"tagone":"# Aimbot",
 "excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt'))()",
 }
 
