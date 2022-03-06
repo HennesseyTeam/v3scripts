@@ -13,9 +13,15 @@
 },
 
 {
-"title":"Dark Dex V4",
+"title":"Dark Dex V3",
 "tagone":"# Decompiler",
-"excerpt":"loadstring(game:HttpGet('https://pastebin.com/raw/fPP8bZ8Z'))()",
+"excerpt":"loadstring(game:HttpGet("https://pastebin.com/raw/YREfugjX"))()",
+},
+
+{
+"title":"Dark Hub",
+"tagone":"# Aimbot",
+"excerpt":"loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init", true))()",
 },
 
 {
