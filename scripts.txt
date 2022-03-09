@@ -21,7 +21,7 @@
 {
 "title":"Dark Hub",
 "tagone":"# Aimbot",
-"excerpt":"loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init", true))()",
+"excerpt":"loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init"))()",
 },
 
 {
