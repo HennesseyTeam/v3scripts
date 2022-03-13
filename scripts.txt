@@ -2,8 +2,22 @@
 
 {
 "title":"Infinite Yield",
-"tagone":"# Admin",
 "excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()",
+},
+
+{
+"title":"Universal ESP and aimbot",
+"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/Blissful4992/Miscellaneous/main/UNIVERSAL.lua'))()",
+},
+
+{
+"title":"Dark Dex V3",
+"excerpt":"loadstring(game:HttpGet('https://pastebin.com/raw/YREfugjX'))()",
+},
+
+{
+"title":"Owl Hub",
+"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt'))()",
 }
 
 ]
