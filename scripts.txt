@@ -6,8 +6,13 @@
 },
 
 {
-"title":"Universal ESP and aimbot",
-"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/Blissful4992/Miscellaneous/main/UNIVERSAL.lua'))()",
+"title":"Fates Admin",
+"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/fatesc/fates-admin/main/main.lua'))()",
+},
+
+{
+"title":"Hydroxide Remote Spy",
+"excerpt":"loadstring(game:HttpGet('https://pastebin.com/raw/S4sM7Hh8'))()",
 },
 
 {
@@ -18,6 +23,21 @@
 {
 "title":"Owl Hub",
 "excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt'))()",
+},
+
+{
+"title":"Universal ESP and aimbot",
+"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/Blissful4992/Miscellaneous/main/UNIVERSAL.lua'))()",
+},
+
+{
+"title":"Solaris Hub",
+"excerpt":"loadstring(game:HttpGet('https://solarishub.dev/script.lua'))()",
+},
+
+{
+"title":"Overflow Admin",
+"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/HennesseyTeam/HennesseyScriptHub/main/OverFlow%20Admin'))()",
 }
 
 ]
