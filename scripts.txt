@@ -1,6 +1,12 @@
 [
 
 {
+"title":"Hennessey Hub",
+"tagone":"# Hub",
+"excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/HennesseyTeam/HennesseyHub/main/HennesseyHubLoader'))()",
+},
+
+{
 "title":"Infinite Yield",
 "tagone":"# Admin",
 "excerpt":"loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()",
